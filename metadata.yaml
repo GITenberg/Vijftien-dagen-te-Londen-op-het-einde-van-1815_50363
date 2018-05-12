@@ -1,4 +1,8 @@
 _repo: Vijftien-dagen-te-Londen-op-het-einde-van-1815_50363
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50363-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Defauconpret, A.-J.-B. (Auguste-Jean-Baptiste)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5678
     wikipedia: http://en.wikipedia.org/wiki/Auguste_Defauconpret
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50363#Vijftien-dagen-te-Londen-op-het-einde-van-1815
 gutenberg_issued: '2015-11-01'
 gutenberg_type: Text
 identifiers:
